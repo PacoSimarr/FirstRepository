@@ -1,0 +1,1 @@
+print("entrenar un modelo")
